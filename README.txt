@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 srinu
 =======
-assignments are very important in precious imp
+assignments are very important
+kumari
 
 >>>>>>> html-assignments
